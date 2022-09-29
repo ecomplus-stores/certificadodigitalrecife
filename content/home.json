@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/58373160_309629589706177_3003455198275305472_n.jpg",
