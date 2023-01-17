@@ -16,9 +16,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/certificado-digital?Certificado Digital"
-    ],
+    "featured": [],
     "random": 6,
     "full_width": false
   },
