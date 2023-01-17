@@ -1,15 +1,15 @@
 {
   "domain": "certificadodigitalrecife.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#181919",
+  "primary_color": "#1616ed",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#0baaf2",
+  "bg_color": "#0da0df",
   "logo": "/img/uploads/58373160_309629589706177_3003455198275305472_n.jpg",
   "name": "Cordeiros Certificado",
-  "short_name": "certificadodigitalrecife",
+  "short_name": "Cordeiros Certificado ",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/58373160_309629589706177_3003455198275305472_n.jpg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#111111",
+  "secondary_color": "#1575c1",
   "icon": "/img/uploads/58373160_309629589706177_3003455198275305472_n.jpg",
   "store_id": 46069,
   "description": "Estamos no mercado desde 2015 e, por isso, somos uma das certificadoras mais tradicionais da cidade de Recife.\n\n",
