@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.77fbb2bfdf70ad31a78e466b4a61987d.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.464de863570e10238d509ea41da0cab1.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.8976124ce1fd85209af91343da614ff4.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.cd12b5ab331f2f3dbc60d44090945617.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.ce59da171310a416bca77e904b4c0964.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Cordeiros Certificado",
+  "short_name": "Cordeiros Certificado ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Estamos no mercado desde 2015 e, por isso, somos uma das certificadoras mais tradicionais da cidade de Recife.\n\n",
+  "background_color": "#0da0df",
+  "theme_color": "#1616ed"
+}
