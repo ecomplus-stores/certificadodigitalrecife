@@ -7,17 +7,17 @@
   },
   "installments": {
     "show": false,
-    "text": "Parcele em até 3x sem juros"
+    "text": ""
   },
   "exchange": {
     "show": false,
-    "text": "Agende aqui sua videoconferência ou visita presencial",
-    "link": "https://calendly.com/d/zkb-3yd-kwj/agende-aqui-sua-videoconferencia-ou-visita-presencial"
+    "text": "",
+    "link": ""
   },
   "promo": {
     "show": true,
-    "text": "Agende aqui sua videoconferência ou visita presencial",
-    "title": "Agendamento:",
-    "link": "https://calendly.com/d/zkb-3yd-kwj/agende-aqui-sua-videoconferencia-ou-visita-presencial"
+    "text": "",
+    "title": "",
+    "link": ""
   }
 }
