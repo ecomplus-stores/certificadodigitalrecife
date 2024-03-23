@@ -15,7 +15,7 @@
     "link": ""
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "",
     "title": "",
     "link": ""
